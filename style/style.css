@@ -1,0 +1,164 @@
+body{
+    background-color:#4C4C4C;
+}
+
+.stContenedor{
+    background-color:#ffff;
+}
+
+/*Colores*/
+.color_1{
+    background-color: #caed63;
+}
+.color_2{
+    background-color: #0c6685;
+}
+
+.stMenuLateral{
+    /*background-image:url(images/tapiz_general.jpg);*/
+}
+.hea1{
+    width: 25%;
+    display: block;
+    height: auto;
+    margin-top: 10%;
+    float: left;
+
+}
+.hea2{
+    width: 10%;
+    height: auto;
+    display: block;
+
+    float:right;
+    margin-right: -10px;
+}
+
+/*
+.st_cabesera{
+    background-image: url(../images/back_images.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+
+.logo{
+    width: 90%;
+    height: auto;
+    }
+.slogan{
+    background-color: #ffb74d;
+    opacity:inherit;
+    color: #fff;
+}
+
+.espacio{
+    height: 150px;
+    width: auto;
+}
+
+.redes_sos li img{
+    width: 100%;
+    height: auto; 
+    }
+.galeria img{
+    width: 100%;
+    height: auto;
+    border: 6px solid #fff;
+}
+
+
+
+.chispas{
+    float: right;
+    
+}
+
+
+
+
+st_filas{
+    margin-bottom: -2px;
+    }
+
+.articulo_1{
+    background-color: #00a6c1;
+    color: #fff;
+    padding: 20px;
+    text-align: justify;  
+}
+
+
+
+
+.art_img{
+    width: 100%;
+    height: auto;
+    float: left;  
+    margin: 5px;
+    border: 6px solid #fff;
+}
+
+.articulo_3{
+    background-color: #5c7474;
+    color: #fff;
+    border-radius: 25px;
+    padding: 10px;
+    text-align: center;
+}
+
+.articulo_3 img{
+    width: 50%;
+    height: auto;
+    display: block;
+    margin: auto;
+    
+    border-radius: 100px;
+    border: 6px solid #fff;
+}
+.st_comentarios li{
+    
+    width: 100%;
+    height: auto;
+    margin-top: 5px;
+    border-radius: 20px;
+    list-style: none;
+    padding-left: 15px;
+    background-color: #eeeeee;
+}
+.st_comentarios li img{
+    width: 6%;
+    height: auto;
+    border-radius: 25px;
+}
+
+.color_n{
+    background-color: #90caf9;
+}
+*/
+/*media moviles>>>>>>>>>>>>>>>>>>>>>>
+@media screen and (max-width: 595px){ 
+    .logo{
+    width: 50%;
+    height: auto;
+    }
+    .redes_sos {
+        list-style: none;
+        display: inline;
+    } 
+    .redes_sos li{
+        list-style: none;
+        display: inline;
+    } 
+    
+    .redes_sos li img{
+        width: 10%;
+        height: auto; 
+        }
+    .espacio{
+    height: auto;
+    width: auto;
+}*/
+
+
